@@ -1,0 +1,12 @@
+{
+  "name": "mint-cell",
+  "description": "",
+  "version": "0.1.0",
+  "main": "lib/index.js",
+  "author": "elemefe",
+  "homepage": "https://Flying-Dandelion/my-ui",
+  "license": "MIT",
+  "repository": "https://github.com/Flying-Dandelion/my-ui/lib/components/mint-cell",
+  "dependencies": {
+  }
+}
