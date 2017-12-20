@@ -1,12 +1,12 @@
 {
-  "name": "mint-cell",
+  "name": "mint-checklist",
   "description": "",
   "version": "0.1.0",
   "main": "lib/index.js",
   "author": "elemefe",
   "homepage": "https://Flying-Dandelion/vue-better-ui",
   "license": "MIT",
-  "repository": "https://github.com/Flying-Dandelion/vue-better-ui/lib/components/cell",
+  "repository": "https://Flying-Dandelion/vue-better-ui/lib/components/checklist",
   "dependencies": {
   }
 }
